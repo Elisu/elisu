@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Eliska</h1>
-<h3 align="center">Currently studying game developmnet at Charles University and working as a C# Backend developer</h3>
+<h1 align="center">Game Dev master's sutdent and C# Backend dev</h1>
 
 - 🌱 I’m currently learning **Electron.js and React.js**
 
@@ -22,6 +22,12 @@
 
 <a href="https://semantic-gap.itch.io/essence-of-wine">
    <img src="https://img.itch.zone/aW1nLzc1NDA5NDkucG5n/original/gprQpO.png" 
+     width="330" 
+     height="215">
+</a>
+
+<a href="https://github.com/Elisu/SkeletonAttack">
+   <img src="https://user-images.githubusercontent.com/57239556/110860572-38e69f00-82bd-11eb-94a2-f80ac6c5ea9e.png" 
      width="330" 
      height="215">
 </a>
