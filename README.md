@@ -7,6 +7,8 @@
 
 <h3 align="left">My Projects:</h3>
 
+[Bachelor Thesis focused on AI](https://github.com/Elisu/StrategyAI)
+
 <h3 align="left">Games I worked on:</h3>
 <a href="https://semantic-gap.itch.io/magical-lantern">
    <img src="https://img.itch.zone/aW1nLzkyMjk1NzYucG5n/original/BsPyFp.png" 
