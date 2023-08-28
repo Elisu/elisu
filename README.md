@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Eliska</h1>
-<h1 align="center">Game Dev master's sutdent and C# Backend dev</h1>
+<h1 align="center">Game Dev master's student and C# Backend dev</h1>
 
 - 🌱 I’m currently learning **Electron.js and React.js**
 
