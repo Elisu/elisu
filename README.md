@@ -10,8 +10,20 @@
 [Bachelor Thesis focused on AI](https://github.com/Elisu/StrategyAI)
 
 <h3 align="left">Games I worked on:</h3>
+<a href="https://petraemmerova.itch.io/stay-true">
+   <img src="https://img.itch.zone/aW1hZ2UvMjM4Nzg1Ny8xNDE0MDY3NS5wbmc=/original/g6lg7M.png" 
+     width="330" 
+     height="215">
+</a>
+
 <a href="https://semantic-gap.itch.io/magical-lantern">
    <img src="https://img.itch.zone/aW1nLzkyMjk1NzYucG5n/original/BsPyFp.png" 
+     width="330" 
+     height="215">
+</a>
+
+<a href="https://mnaukal.itch.io/janitor-exorcist">
+   <img src="https://img.itch.zone/aW1nLzEyMTAxMjg0LnBuZw==/original/YQ%2FOkg.png" 
      width="330" 
      height="215">
 </a>
