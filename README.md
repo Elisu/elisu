@@ -11,7 +11,7 @@
 
 <h3 align="left">Games I worked on:</h3>
 <a href="https://petraemmerova.itch.io/stay-true">
-   <img src="https://img.itch.zone/aW1hZ2UvMjM4Nzg1Ny8xNDE0MDY3NS5wbmc=/original/g6lg7M.png" 
+   <img src="https://img.itch.zone/aW1hZ2UvMjM4Nzg1Ny8xNDE0MDY3Ni5wbmc=/original/V5VSrZ.png" 
      width="330" 
      height="215">
 </a>
