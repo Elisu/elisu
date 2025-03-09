@@ -1,11 +1,13 @@
 <h1 align="center">Hi 👋, I'm Eliska</h1>
-<h1 align="center">Game Dev master's student and C# Backend dev</h1>
+<h1 align="center">Game Dev Master's Graduate | VR/AR Enthusiast | C# Backend Dev</h1>
 
 - 🌱 I’m currently learning **Electron.js and React.js**
 
 - 📫 How to reach me **eliska.suchardova@gmail.com**
 
 <h3 align="left">My Projects:</h3>
+
+[Master Thesis VR research]([https://github.com/Elisu/StrategyAI](https://dspace.cuni.cz/handle/20.500.11956/197449?locale-attribute=en))
 
 [Bachelor Thesis focused on AI](https://github.com/Elisu/StrategyAI)
 
