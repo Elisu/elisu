@@ -8,6 +8,16 @@
 <h3 align="left">My Projects:</h3>
 
 [Master Thesis VR research](https://dspace.cuni.cz/handle/20.500.11956/197449?locale-attribute=en)
+Abstract: This thesis proposed a structured onboarding process and consequently designed and implemented
+an interactive tutorial application named “OmniStep", aiming to effectively prepare users for use
+of the treadmill National Institute of Mental Health in the Czech Republic (NIMH CZ). To evaluate 
+its effectiveness, a research study with 12 participants was conducted, utilizing Interpretative 
+Phenomenological Analysis (IPA). Three key themes emerged from the analysis — adaptation to VR movement;
+users’ perceptions of motion speed; and feedback onthe tutorial application’s design. The findings 
+revealed that while participants initially struggled, they gradually adapted to the treadmill. 
+Participants agreed that the tutorial application fulfilled its purpose, though more time would 
+be needed to master the use of the treadmill. The research also identified possible design improvements, 
+that were incorporated into the final version of the application presented in this thesis.
 
 [Bachelor Thesis focused on AI](https://github.com/Elisu/StrategyAI)
 
