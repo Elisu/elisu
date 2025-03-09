@@ -8,7 +8,7 @@
 <h3 align="left">My Projects:</h3>
 
 [Master Thesis VR research](https://dspace.cuni.cz/handle/20.500.11956/197449?locale-attribute=en)
-Abstract: This thesis proposed a structured onboarding process and consequently designed and implemented
+- This thesis proposed a structured onboarding process and consequently designed and implemented
 an interactive tutorial application named “OmniStep", aiming to effectively prepare users for use
 of the treadmill National Institute of Mental Health in the Czech Republic (NIMH CZ). To evaluate 
 its effectiveness, a research study with 12 participants was conducted, utilizing Interpretative 
