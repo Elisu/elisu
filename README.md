@@ -7,7 +7,7 @@
 
 <h3 align="left">My Projects:</h3>
 
-[Master Thesis VR research]([https://github.com/Elisu/StrategyAI](https://dspace.cuni.cz/handle/20.500.11956/197449?locale-attribute=en))
+[Master Thesis VR research](https://dspace.cuni.cz/handle/20.500.11956/197449?locale-attribute=en)
 
 [Bachelor Thesis focused on AI](https://github.com/Elisu/StrategyAI)
 
