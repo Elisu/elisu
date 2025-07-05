@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Eliska</h1>
-<h1 align="center">Game Dev Master's Graduate | VR/AR Enthusiast | C# Backend Dev</h1>
-
-- 🌱 I’m currently learning **Electron.js and React.js**
+<h1 align="center">Software Engineer | Game Dev Master's Graduate</h1>
 
 - 📫 How to reach me **eliska.suchardova@gmail.com**
 
